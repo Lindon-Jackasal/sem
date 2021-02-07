@@ -1,1 +1,3 @@
-SET08803 2020-1 TR2 001 - Lab 01: Setup on GitHub-Lindon Jackasal
+# ENU Software Engineering Methods - Lindon Jackasal
+
+- Master Build Status [![Build Status](https://travis-ci.org/Lindon-Jackasal/sem.svg?branch=main)](https://travis-ci.org/Lindon-Jackasal/sem)
