@@ -1,5 +1,5 @@
 # Code of Conduct
-##### Effective Date: February 01, 2021
+### Effective Date: February 01, 2021
 
 ## Introduction
 The scrum team members are expected to act with great professionalism and carry themselves well with good etiquette while performing their duties and interacting with individuals on a daily basis. This code of conduct outlines the ethics that are required of each team member.
