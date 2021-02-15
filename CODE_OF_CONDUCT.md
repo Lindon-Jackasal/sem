@@ -5,7 +5,7 @@
 The scrum team members are expected to act with great professionalism and carry themselves well with good etiquette while performing their duties and interacting with individuals on a daily basis. This code of conduct outlines the ethics that are required of each team member.
 
 ### 1.	Punctuality and Attendance
-Members of the scrum team are expected to attend and be on time for daily stand-up. In cases where a team member is unable to make the daily stand-up because of any personal issues, the team member must inform the scrum master beforehand and they will be exempted from any disciplinary action.
+Members of the scrum team are expected to attend and be on time for daily stand-up. In cases where a team member is unable to make the daily stand-up because of any personal issues, the team member must inform the scrum master beforehand, and they will be exempted from any disciplinary action.
 
 ### 2.	Mistreatment
 Any mistreatment is strictly prohibited. Scrum team members must respect their team as well as other individuals (clients, customers, and the public) regardless of their age, gender, race or creed. Always be courteous to others and welcome new ideas from everyone especially from team members.
