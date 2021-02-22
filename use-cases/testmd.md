@@ -30,9 +30,11 @@ A request for this specific report is sent to the organization.
 1. Organization requests information on either the top N populated cities in the world, continent, a region or country or district where N is provided by the user.
 2. Organization worker triggers the report generation to extract either the top N populated world, continent, a region or country or district where N is provided by the user.
 3. Organization worker provides report to organization.
+
 ### EXTENSIONS
 2. **Data does not exist**:
     1. Organization worker informs the organization no data exist.
+
 ### SUB-VARIATIONS
 None.
 
