@@ -12,7 +12,7 @@ Organization.
 Primary task.
 
 ### Preconditions
-Database contains country data.
+Database contains population data.
 
 ### Success End Condition
 A report is available for the organization to provide information on either the top N populated cities in the world, the top N populated cities in a continent, the top N populated cities in a region, the top N populated cities in a country, or the top N populated cities in a district, where N is provided by the user.
