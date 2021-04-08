@@ -33,7 +33,7 @@ A request for this specific report is sent to the organization.
 
 ### EXTENSIONS
 2. **Data does not exist**:
-    1. Organization worker informs the organization no data exist.
+   1. Organization worker informs the organization no data exist.
 
 ### SUB-VARIATIONS
 None.
